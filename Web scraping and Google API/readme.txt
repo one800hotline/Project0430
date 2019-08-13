@@ -1,1 +1,1 @@
-For script to function, one need a Goole Directoins API key.
+For geocoding script to function, one needs a Goole Directions API key which can be obtained through an account at Google Cloud Platform (GCP).
