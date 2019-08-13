@@ -1,0 +1,1 @@
+For script to function, one need a Goole Directoins API key.
